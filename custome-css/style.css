@@ -1,0 +1,21 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-control {
+    width: 370px;
+    height: 72px;
+    color: #E0E0E0;
+    ;
+}
+
+.honda-btn {
+    background-color: #E76F51;
+    color: white;
+    height: 44px;
+    width: 168px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+
+}
