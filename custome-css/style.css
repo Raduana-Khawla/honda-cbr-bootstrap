@@ -19,3 +19,23 @@ body {
     border-radius: 5px;
 
 }
+
+.img-control {
+    width: 156px;
+    height: 320px;
+    font-size: 16px;
+}
+
+.grayscale {
+    filter: grayscale(100%);
+}
+
+.rating {
+    color: #E77C40;
+
+}
+
+.alignment {
+    text-align: center;
+    padding-bottom: 40px;
+}
