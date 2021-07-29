@@ -26,10 +26,12 @@ body {
     font-size: 16px;
 }
 
+/* Fetured Bikes section */
 .grayscale {
     filter: grayscale(100%);
 }
 
+/* Happy Clients says */
 .rating {
     color: #E77C40;
 
@@ -38,4 +40,12 @@ body {
 .alignment {
     text-align: center;
     padding-bottom: 40px;
+}
+
+
+/* services part */
+.services img {
+    width: 100%;
+    height: 100%;
+
 }
